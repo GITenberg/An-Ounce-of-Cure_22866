@@ -1,0 +1,34 @@
+_repo: An-Ounce-of-Cure_22866
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nourse, Alan Edward
+    aliases:
+    - Edwards, Al
+    - Nourse, Alan E. (Alan Edward)
+    birthdate: 1928
+    deathdate: 1992
+    gutenberg_agent_id: '25579'
+    url: http://www.gutenberg.org/2009/agents/25579
+    wikipedia: http://en.wikipedia.org/wiki/Alan_E._Nourse
+description: This etext was produced from The Counterfeit Man - More Science Fiction
+  Stories by Alan E. Nourse published in 1963.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Medical fiction'
+- !lcc 'PS'
+title: An Ounce of Cure
+url: http://www.gutenberg.org/ebooks/22866
