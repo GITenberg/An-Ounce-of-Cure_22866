@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Alan_E._Nourse
 description: This etext was produced from The Counterfeit Man - More Science Fiction
   Stories by Alan E. Nourse published in 1963.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22866#An-Ounce-of-Cure
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-10-03'
 gutenberg_type: Text
